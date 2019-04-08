@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".uc2">
+    <Button
+        android:id="@+id/uc2_1"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uc_fir"/>
+    <Button
+        android:id="@+id/uc2_2"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uc_sec"
+        android:layout_toRightOf="@id/uc2_1"/>
+    <Button
+        android:id="@+id/uc2_3"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uc_thr"
+        android:layout_below="@id/uc2_1"/>
+
+    <Button
+        android:id="@+id/uc2_4"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uc_for"
+        android:layout_toRightOf="@id/uc2_3"
+        android:layout_below="@id/uc2_2"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/re2"
+        android:text="@string/ret"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="first">线性布局</string>
+    <string name="second">相对布局</string>
+    <string name="third">帧布局</string>
+    <string name="forth">表格布局</string>
+    <string name="fifth">网格布局</string>
+    <string name="uc_fir">第一个按钮Button</string>
+    <string name="uc_sec">第二个按钮Button</string>
+    <string name="uc_thr">第三个按钮Button</string>
+    <string name="uc_for">第四个按钮Button</string>
+    <string name="ret">返回</string>
+    <string name="uc1_1">水平布局</string>
+    <string name="uc1_2">垂直布局</string>
+    <string name="uc1_3">向左对其</string>
+    <string name="widget1">第一个控件</string>
+    <string name="widget2">第二个控件</string>
+    <string name="widget3">第三个控件</string>
+    <string name="widget4">第四个控件</string>
+    <string name="widget5">第五个控件</string>
+    <string name="switch_orientation">切换方向</string>
+</resources>
